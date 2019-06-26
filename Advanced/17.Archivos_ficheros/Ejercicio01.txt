@@ -1,0 +1,2 @@
+Primer ejercicio de creacion de archivo de texto 
+del curso de programacion C++ para mi porfolio.
