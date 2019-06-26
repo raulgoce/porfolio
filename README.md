@@ -9,12 +9,12 @@ En los archivos encontrarás 2 carpetas básicas.
 1. Curso C++
 2. Ejercicios propios.
 
-1. En la primera carpeta está todo lo que he aprendido con el curso de C++ que es bastante. El curso consistía en más de 200 clases 
+1- En la carpeta Begginer, Medium y Advanced está todo lo que he aprendido con el curso de C++ que es bastante. El curso consistía en más de 200 clases 
 repartidas en 45 horas. Como verás, se pueden diferenciar en 3 departamentos; Principiante, Intermedio y Avanzado. 
 He aprendido mucho con este curso y me ha servido de gran ayuda. Con él aprendí desde declaración de variables, punteros hasta plantillas 
 entre otras muchas cosas.
 
-2. Un simple ejercicio que me he propuesto para poder hacer un login y un registro en una base de datos local. La base de datos está 
+2- Un simple ejercicio que me he propuesto para poder hacer un login y un registro en una base de datos local. La base de datos está 
 adjunta a la carpeta en formato SQL. Debido a que sólo he tenido un par de horas para hacerlo no es gran cosa, pero he dado lo mejor 
 de mí a pesar de no tener mucha experiéncia con este lenguaje. Estoy seguro de que se puede mejorar mucho el código y agradecería de 
 que si has llegado hasta aquí, me puedas ayudar a mejorarlo!. 
